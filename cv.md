@@ -39,6 +39,7 @@ function sumInput() {
         }
         alert(sumInput());
 
+
 ## Project: developed an application - Collection of cocktail recipes
 Technologies: JavaScript, HTML, SCSS
 Description: developed an application for a collection of cocktail recipes plus a notebook for creating and saving your recipe in a team of three developers.
@@ -48,6 +49,7 @@ Description: developed a website for a BORK technique designer in a team of four
 ## Project: I made up a website for an architectural company.
 Technologies: HTML, SCSS.
 Description: I developed a website for an architectural company in a team of three developers.
+
 
 ## Tashkent University of Information Technologies
 ## courses: itgirlschool
