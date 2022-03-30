@@ -19,6 +19,7 @@ HTML5
 -React
 
 ## Code example
+
 function sumInput() {
             let numbers = [];
             while (true) {
